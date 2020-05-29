@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: AutoNeed
+## Version: 1.0.0
+## Author: bwalks
+## Notes: Automatically needs all rolls
+## DefaultState: enabled
+
+AutoNeed.lua
